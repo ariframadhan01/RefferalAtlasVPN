@@ -1,7 +1,7 @@
 # Auto Reff Atlas VPN
 
 ```bash
-git clone https://github.com/znmn/atlas-reff
+git clone
 cd atlas-reff
 npm i
 npm start
